@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
         "author": "Ryviria",
 	"description": "A Learning Project",
-	"keywords": [ "freecodecamp", "manage", "learning" ],
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
